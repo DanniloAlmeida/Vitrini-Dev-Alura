@@ -10,7 +10,7 @@ Fiz esse projeto para simular uma loja online geek com o foco principal no anime
 | :fire: Desafio     | https://narutostorms.netlify.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](![image](https://www.peakpx.com/en/hd-wallpaper-desktop-kcizn#vitrinedev)
+![](![image](https://w0.peakpx.com/wallpaper/510/116/HD-wallpaper-naruto-uzumaki-jiraiya-naruto-shippuden-sannin.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
