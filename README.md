@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Site Ecommerce do Naruto
 
-Rápida descrição do objetivo de fazer esse projeto
+Fiz esse projeto para simular uma loja online geek com o foco principal no anime Naruto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Site Ecommerce Naruto**
+| :label: Tecnologias | html,css,Javascript
+| :rocket: URL         | https://narutostorms.netlify.app/
+| :fire: Desafio     | https://narutostorms.netlify.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](![image](https://user-images.githubusercontent.com/77454609/204747297-cc9e34c2-7645-419f-a5ac-64df6fd97eb6.png)
+#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Esse projeto atualmente é apenas uma Landing Page, mas pretendo futuramente acrescentar sistemas de login e banco de dados para salvar as informações do usuário :)
